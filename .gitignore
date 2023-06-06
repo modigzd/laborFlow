@@ -1,0 +1,24 @@
+/src/laborFlow/__pycache__
+/src/laborFlow/core/__pycache__
+/bin/results
+
+
+# Distribution / packaging
+bin/
+build/
+develop-eggs/
+dist/
+eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+/.vscode
+
+
+# SQL Database Design (For now at least)
+/dbDesign
